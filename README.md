@@ -1,2 +1,2 @@
 # heat-aggs
-Graphic Calculator for Heat Transfer using Spherical or Cylindrical Coordinate
+Graphic Calculator for Temperature Variation in Spherical Shells or Steam Pipes
